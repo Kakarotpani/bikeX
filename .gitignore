@@ -1,0 +1,8 @@
+# bikeX
+
+node_modules/
+build
+.gitignore
+
+.log
+
